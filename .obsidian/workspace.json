@@ -49,8 +49,10 @@
             "id": "34fb850dc272534a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "OOAD-Lab/week1/Pasted image 20230119091607.png"
+              }
             }
           }
         ],
@@ -120,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OOAD-Lab/week1/Pasted image 20230119091607.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OOAD-Lab/week1/Pasted image 20230119091607.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OOAD-Lab/week1/Pasted image 20230119091607.png"
+              }
             }
           }
         ]
@@ -177,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34fb850dc272534a",
+  "active": "7c79a8ae69a931f9",
   "lastOpenFiles": [
     "CC-Lab/CC-LAB.md",
     "OOAD-Lab/OOAD-Lab.md",
