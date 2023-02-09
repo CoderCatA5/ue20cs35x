@@ -1,0 +1,6 @@
+main(){
+    int abc=60;
+    if(1){
+        print("%d",abc)
+    }
+}
