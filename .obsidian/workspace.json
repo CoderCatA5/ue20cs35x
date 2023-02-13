@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1c73b9048321fa6c",
+        "id": "3832800e488a0c47",
         "type": "tabs",
         "children": [
           {
-            "id": "cf97bf6c127d06e4",
+            "id": "8c83bf80a6e92792",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CC-Lab/Week3/Experiment 2-20230207T030413Z-001/Experiment 2/Pre-Reading and Installation Guide.pdf"
-              }
-            }
-          },
-          {
-            "id": "9094e136d6b6dbfa",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CC-Lab/Week3/Experiment 2-20230207T030413Z-001/Experiment 2/Docker Lab Instruction Manual.pdf"
+                "file": "CC-Lab/Week3/6B_PES2UG20CS081_AYUSHSINGH_E2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "869b2d63d3ce4ba9",
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CC-Lab/Week3/Experiment 2-20230207T030413Z-001/Experiment 2/Docker Lab Instruction Manual.pdf",
+                "file": "CC-Lab/Week3/6B_PES2UG20CS081_AYUSHSINGH_E2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CC-Lab/Week3/Experiment 2-20230207T030413Z-001/Experiment 2/Docker Lab Instruction Manual.pdf",
+                "file": "CC-Lab/Week3/6B_PES2UG20CS081_AYUSHSINGH_E2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CC-Lab/Week3/Experiment 2-20230207T030413Z-001/Experiment 2/Docker Lab Instruction Manual.pdf"
+                "file": "CC-Lab/Week3/6B_PES2UG20CS081_AYUSHSINGH_E2.md"
               }
             }
           }
@@ -155,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9094e136d6b6dbfa",
+  "active": "7c79a8ae69a931f9",
   "lastOpenFiles": [
     "CC-Lab/Week3/Experiment 2-20230207T030413Z-001/Experiment 2/Pre-Reading and Installation Guide.pdf",
-    "CC-Lab/Week3/Untitled.md",
+    "CC-Lab/Week3/SS/3d.png",
+    "CC-Lab/Week3/SS/3e.png",
+    "CC-Lab/Week3/6B_PES2UG20CS081_AYUSHSINGH_E2.md",
     "CC-Lab/Week3/Experiment 2-20230207T030413Z-001/Experiment 2/Docker Lab Instruction Manual.pdf",
-    "CC-Lab/CC-LAB.md",
-    "OOAD-Lab/Week3/ActivityDiagram1.png",
-    "OOAD-Lab/Week3/PES2UG20CS081_WEEK3.md",
-    "CD-Lab/CD-LAB.md",
-    "CC-Lab/Week2/B_PES2UG20CS081_A_A1.md",
+    "Pasted image 20230125215514.png",
+    "Pasted image 20230124083938.png.md",
     "Pasted image 20230124084326.png.md",
-    "Pasted image 20230124083938.png.md"
+    "Pasted image 20230125214921.png",
+    "CC-Lab/CC-LAB.md"
   ]
 }
